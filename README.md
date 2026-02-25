@@ -13,7 +13,7 @@ I’m Karthik, Building on my background in computer science, design, and develo
 ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Framework-ROS%202%20Humble-informational?style=flat&logo=ros&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Front--End%20Web%20Development-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Web%20Development-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 
 
 
